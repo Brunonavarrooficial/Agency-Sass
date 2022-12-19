@@ -16,6 +16,10 @@ LandPage Empresárial
 
 ```
 
+> Criação de variáveis externas com Sass
+
+> criação de Utilities Mixin com Sass
+
 > Ícones da bibliotéca [Font Awesome](https://fontawesome.com/)
 
 > Fontes de Texto da bibliotéca [Google Fonts](https://fonts.google.com/knowledge)
