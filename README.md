@@ -12,7 +12,7 @@ LandPage Empresárial
 
 ```
 
---watch assets/sass/style.sass:css/style.css
+sass --watch assets/sass/style.sass:css/style.css
 
 ```
 
